@@ -1,0 +1,6 @@
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\Examine4Feb2013Morning\3.Slides\bin\Debug\3.Slides.exe.config
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\Examine4Feb2013Morning\3.Slides\bin\Debug\3.Slides.exe
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\Examine4Feb2013Morning\3.Slides\bin\Debug\3.Slides.pdb
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\Examine4Feb2013Morning\3.Slides\obj\Debug\3.Slides.csprojResolveAssemblyReference.cache
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\Examine4Feb2013Morning\3.Slides\obj\Debug\3.Slides.exe
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\Examine4Feb2013Morning\3.Slides\obj\Debug\3.Slides.pdb

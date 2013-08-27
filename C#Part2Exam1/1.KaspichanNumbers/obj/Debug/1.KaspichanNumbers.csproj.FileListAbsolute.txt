@@ -1,0 +1,6 @@
+c:\users\dragu chaya\documents\visual studio 2012\Projects\Examine4Feb2013Morning\1.KaspichanNumbers\bin\Debug\1.KaspichanNumbers.exe.config
+c:\users\dragu chaya\documents\visual studio 2012\Projects\Examine4Feb2013Morning\1.KaspichanNumbers\bin\Debug\1.KaspichanNumbers.exe
+c:\users\dragu chaya\documents\visual studio 2012\Projects\Examine4Feb2013Morning\1.KaspichanNumbers\bin\Debug\1.KaspichanNumbers.pdb
+c:\users\dragu chaya\documents\visual studio 2012\Projects\Examine4Feb2013Morning\1.KaspichanNumbers\obj\Debug\1.KaspichanNumbers.csprojResolveAssemblyReference.cache
+c:\users\dragu chaya\documents\visual studio 2012\Projects\Examine4Feb2013Morning\1.KaspichanNumbers\obj\Debug\1.KaspichanNumbers.exe
+c:\users\dragu chaya\documents\visual studio 2012\Projects\Examine4Feb2013Morning\1.KaspichanNumbers\obj\Debug\1.KaspichanNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\Examine4Feb2013Morning\ConsoleJustification\bin\Debug\ConsoleJustification.exe.config
+C:\Users\Dragu Chaya\Documents\Visual Studio 2012\Projects\Examine4Feb2013Morning\ConsoleJustification\bin\Debug\ConsoleJustification.exe
+C:\Users\Dragu Chaya\Documents\Visual Studio 2012\Projects\Examine4Feb2013Morning\ConsoleJustification\bin\Debug\ConsoleJustification.pdb
+C:\Users\Dragu Chaya\Documents\Visual Studio 2012\Projects\Examine4Feb2013Morning\ConsoleJustification\obj\Debug\ConsoleJustification.csprojResolveAssemblyReference.cache
+C:\Users\Dragu Chaya\Documents\Visual Studio 2012\Projects\Examine4Feb2013Morning\ConsoleJustification\obj\Debug\ConsoleJustification.exe
+C:\Users\Dragu Chaya\Documents\Visual Studio 2012\Projects\Examine4Feb2013Morning\ConsoleJustification\obj\Debug\ConsoleJustification.pdb

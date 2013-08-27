@@ -1,0 +1,5 @@
+c:\users\dragu chaya\documents\visual studio 2012\Projects\Examine4Feb2013Morning\2.GreedyDwarf\bin\Debug\2.GreedyDwarf.exe.config
+c:\users\dragu chaya\documents\visual studio 2012\Projects\Examine4Feb2013Morning\2.GreedyDwarf\bin\Debug\2.GreedyDwarf.exe
+c:\users\dragu chaya\documents\visual studio 2012\Projects\Examine4Feb2013Morning\2.GreedyDwarf\bin\Debug\2.GreedyDwarf.pdb
+c:\users\dragu chaya\documents\visual studio 2012\Projects\Examine4Feb2013Morning\2.GreedyDwarf\obj\Debug\2.GreedyDwarf.exe
+c:\users\dragu chaya\documents\visual studio 2012\Projects\Examine4Feb2013Morning\2.GreedyDwarf\obj\Debug\2.GreedyDwarf.pdb
