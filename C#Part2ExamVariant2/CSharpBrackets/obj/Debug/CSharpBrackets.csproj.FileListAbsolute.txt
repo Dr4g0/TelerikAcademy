@@ -1,0 +1,6 @@
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\ExamPart2Variant2\CSharpBrackets\bin\Debug\CSharpBrackets.exe.config
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\ExamPart2Variant2\CSharpBrackets\bin\Debug\CSharpBrackets.exe
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\ExamPart2Variant2\CSharpBrackets\bin\Debug\CSharpBrackets.pdb
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\ExamPart2Variant2\CSharpBrackets\obj\Debug\CSharpBrackets.csprojResolveAssemblyReference.cache
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\ExamPart2Variant2\CSharpBrackets\obj\Debug\CSharpBrackets.exe
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\ExamPart2Variant2\CSharpBrackets\obj\Debug\CSharpBrackets.pdb

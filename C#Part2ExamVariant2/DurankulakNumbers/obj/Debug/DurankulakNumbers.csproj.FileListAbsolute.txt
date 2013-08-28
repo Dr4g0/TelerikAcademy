@@ -1,0 +1,6 @@
+c:\users\dragu chaya\documents\visual studio 2012\Projects\ExamPart2Variant2\DurankulakNumbers\bin\Debug\DurankulakNumbers.exe.config
+c:\users\dragu chaya\documents\visual studio 2012\Projects\ExamPart2Variant2\DurankulakNumbers\bin\Debug\DurankulakNumbers.exe
+c:\users\dragu chaya\documents\visual studio 2012\Projects\ExamPart2Variant2\DurankulakNumbers\bin\Debug\DurankulakNumbers.pdb
+c:\users\dragu chaya\documents\visual studio 2012\Projects\ExamPart2Variant2\DurankulakNumbers\obj\Debug\DurankulakNumbers.csprojResolveAssemblyReference.cache
+c:\users\dragu chaya\documents\visual studio 2012\Projects\ExamPart2Variant2\DurankulakNumbers\obj\Debug\DurankulakNumbers.exe
+c:\users\dragu chaya\documents\visual studio 2012\Projects\ExamPart2Variant2\DurankulakNumbers\obj\Debug\DurankulakNumbers.pdb

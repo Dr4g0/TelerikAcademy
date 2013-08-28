@@ -1,0 +1,6 @@
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\ExamPart2Variant2\Laser\bin\Debug\Laser.exe.config
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\ExamPart2Variant2\Laser\bin\Debug\Laser.exe
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\ExamPart2Variant2\Laser\bin\Debug\Laser.pdb
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\ExamPart2Variant2\Laser\obj\Debug\Laser.csprojResolveAssemblyReference.cache
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\ExamPart2Variant2\Laser\obj\Debug\Laser.exe
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\ExamPart2Variant2\Laser\obj\Debug\Laser.pdb

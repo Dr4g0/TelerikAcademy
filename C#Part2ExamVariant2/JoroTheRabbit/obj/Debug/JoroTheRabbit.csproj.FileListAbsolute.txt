@@ -1,0 +1,6 @@
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\ExamPart2Variant2\JoroTheRabbit\bin\Debug\JoroTheRabbit.exe.config
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\ExamPart2Variant2\JoroTheRabbit\bin\Debug\JoroTheRabbit.exe
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\ExamPart2Variant2\JoroTheRabbit\bin\Debug\JoroTheRabbit.pdb
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\ExamPart2Variant2\JoroTheRabbit\obj\Debug\JoroTheRabbit.csprojResolveAssemblyReference.cache
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\ExamPart2Variant2\JoroTheRabbit\obj\Debug\JoroTheRabbit.exe
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\ExamPart2Variant2\JoroTheRabbit\obj\Debug\JoroTheRabbit.pdb
