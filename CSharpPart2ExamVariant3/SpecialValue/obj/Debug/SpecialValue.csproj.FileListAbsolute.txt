@@ -1,0 +1,6 @@
+c:\users\dragu chaya\documents\visual studio 2012\Projects\CSharpPart2ExamVariant3\SpecialValue\bin\Debug\SpecialValue.exe.config
+c:\users\dragu chaya\documents\visual studio 2012\Projects\CSharpPart2ExamVariant3\SpecialValue\bin\Debug\SpecialValue.exe
+c:\users\dragu chaya\documents\visual studio 2012\Projects\CSharpPart2ExamVariant3\SpecialValue\bin\Debug\SpecialValue.pdb
+c:\users\dragu chaya\documents\visual studio 2012\Projects\CSharpPart2ExamVariant3\SpecialValue\obj\Debug\SpecialValue.csprojResolveAssemblyReference.cache
+c:\users\dragu chaya\documents\visual studio 2012\Projects\CSharpPart2ExamVariant3\SpecialValue\obj\Debug\SpecialValue.exe
+c:\users\dragu chaya\documents\visual studio 2012\Projects\CSharpPart2ExamVariant3\SpecialValue\obj\Debug\SpecialValue.pdb

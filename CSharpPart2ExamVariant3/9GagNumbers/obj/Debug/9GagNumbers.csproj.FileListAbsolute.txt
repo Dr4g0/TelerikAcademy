@@ -1,0 +1,6 @@
+c:\users\dragu chaya\documents\visual studio 2012\Projects\CSharpPart2ExamVariant3\9GagNumbers\bin\Debug\9GagNumbers.exe.config
+c:\users\dragu chaya\documents\visual studio 2012\Projects\CSharpPart2ExamVariant3\9GagNumbers\bin\Debug\9GagNumbers.exe
+c:\users\dragu chaya\documents\visual studio 2012\Projects\CSharpPart2ExamVariant3\9GagNumbers\bin\Debug\9GagNumbers.pdb
+c:\users\dragu chaya\documents\visual studio 2012\Projects\CSharpPart2ExamVariant3\9GagNumbers\obj\Debug\9GagNumbers.csprojResolveAssemblyReference.cache
+c:\users\dragu chaya\documents\visual studio 2012\Projects\CSharpPart2ExamVariant3\9GagNumbers\obj\Debug\9GagNumbers.exe
+c:\users\dragu chaya\documents\visual studio 2012\Projects\CSharpPart2ExamVariant3\9GagNumbers\obj\Debug\9GagNumbers.pdb
