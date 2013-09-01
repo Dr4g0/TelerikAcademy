@@ -1,0 +1,6 @@
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\Exam2Variant5\MessagesInABottle\bin\Debug\MessagesInABottle.exe.config
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\Exam2Variant5\MessagesInABottle\bin\Debug\MessagesInABottle.exe
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\Exam2Variant5\MessagesInABottle\bin\Debug\MessagesInABottle.pdb
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\Exam2Variant5\MessagesInABottle\obj\Debug\MessagesInABottle.csprojResolveAssemblyReference.cache
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\Exam2Variant5\MessagesInABottle\obj\Debug\MessagesInABottle.exe
+C:\Users\Dragu Chaya\documents\visual studio 2012\Projects\Exam2Variant5\MessagesInABottle\obj\Debug\MessagesInABottle.pdb

@@ -1,0 +1,6 @@
+c:\users\dragu chaya\documents\visual studio 2012\Projects\Exam2Variant5\BasicLanguage\bin\Debug\BasicLanguage.exe.config
+c:\users\dragu chaya\documents\visual studio 2012\Projects\Exam2Variant5\BasicLanguage\bin\Debug\BasicLanguage.exe
+c:\users\dragu chaya\documents\visual studio 2012\Projects\Exam2Variant5\BasicLanguage\bin\Debug\BasicLanguage.pdb
+c:\users\dragu chaya\documents\visual studio 2012\Projects\Exam2Variant5\BasicLanguage\obj\Debug\BasicLanguage.csprojResolveAssemblyReference.cache
+c:\users\dragu chaya\documents\visual studio 2012\Projects\Exam2Variant5\BasicLanguage\obj\Debug\BasicLanguage.exe
+c:\users\dragu chaya\documents\visual studio 2012\Projects\Exam2Variant5\BasicLanguage\obj\Debug\BasicLanguage.pdb

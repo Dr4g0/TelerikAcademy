@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicLanguage", "BasicLanguage\BasicLanguage.csproj", "{604AF70A-C8FF-4BDD-98B5-C72A6B55E378}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagesInABottle", "MessagesInABottle\MessagesInABottle.csproj", "{564F3CED-0BF5-4506-99BF-520CA2E08EC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cooking", "Cooking\Cooking.csproj", "{7990CBF7-9040-4E91-A04A-2753CF834035}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{604AF70A-C8FF-4BDD-98B5-C72A6B55E378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{604AF70A-C8FF-4BDD-98B5-C72A6B55E378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{604AF70A-C8FF-4BDD-98B5-C72A6B55E378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{604AF70A-C8FF-4BDD-98B5-C72A6B55E378}.Release|Any CPU.Build.0 = Release|Any CPU
+		{564F3CED-0BF5-4506-99BF-520CA2E08EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564F3CED-0BF5-4506-99BF-520CA2E08EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564F3CED-0BF5-4506-99BF-520CA2E08EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564F3CED-0BF5-4506-99BF-520CA2E08EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7990CBF7-9040-4E91-A04A-2753CF834035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7990CBF7-9040-4E91-A04A-2753CF834035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7990CBF7-9040-4E91-A04A-2753CF834035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7990CBF7-9040-4E91-A04A-2753CF834035}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
