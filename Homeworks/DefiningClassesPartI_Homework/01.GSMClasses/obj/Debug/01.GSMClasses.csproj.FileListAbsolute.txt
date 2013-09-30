@@ -1,0 +1,5 @@
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\DefiningClassesPartI_Homework\01.GSMClasses\obj\Debug\01.GSMClasses.csprojResolveAssemblyReference.cache
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\DefiningClassesPartI_Homework\01.GSMClasses\bin\Debug\01.GSMClasses.exe
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\DefiningClassesPartI_Homework\01.GSMClasses\bin\Debug\01.GSMClasses.pdb
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\DefiningClassesPartI_Homework\01.GSMClasses\obj\Debug\01.GSMClasses.exe
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\DefiningClassesPartI_Homework\01.GSMClasses\obj\Debug\01.GSMClasses.pdb
