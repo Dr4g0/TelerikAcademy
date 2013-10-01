@@ -1,0 +1,5 @@
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\DefiningClassesPartII_Homework\01-04.StructurePoint3D\obj\Debug\01-04.StructurePoint3D.csprojResolveAssemblyReference.cache
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\DefiningClassesPartII_Homework\01-04.StructurePoint3D\bin\Debug\01-04.StructurePoint3D.exe
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\DefiningClassesPartII_Homework\01-04.StructurePoint3D\bin\Debug\01-04.StructurePoint3D.pdb
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\DefiningClassesPartII_Homework\01-04.StructurePoint3D\obj\Debug\01-04.StructurePoint3D.exe
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\DefiningClassesPartII_Homework\01-04.StructurePoint3D\obj\Debug\01-04.StructurePoint3D.pdb
