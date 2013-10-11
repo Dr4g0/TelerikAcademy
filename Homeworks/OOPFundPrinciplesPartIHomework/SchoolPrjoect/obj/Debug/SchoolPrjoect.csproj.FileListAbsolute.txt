@@ -1,0 +1,5 @@
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\OOPFundPrinciplesPartIHomework\SchoolPrjoect\bin\Debug\SchoolPrjoect.exe
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\OOPFundPrinciplesPartIHomework\SchoolPrjoect\bin\Debug\SchoolPrjoect.pdb
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\OOPFundPrinciplesPartIHomework\SchoolPrjoect\obj\Debug\SchoolPrjoect.csprojResolveAssemblyReference.cache
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\OOPFundPrinciplesPartIHomework\SchoolPrjoect\obj\Debug\SchoolPrjoect.exe
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\OOPFundPrinciplesPartIHomework\SchoolPrjoect\obj\Debug\SchoolPrjoect.pdb
