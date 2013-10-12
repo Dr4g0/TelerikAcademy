@@ -19,7 +19,7 @@ namespace Timer
             Timer testTimer = new Timer(td, currentDelay, numbers);
             Thread threadTimer = new Thread(new ThreadStart(testTimer.Run));
             threadTimer.Start();
-            Console.WriteLine("But may be this message prints first //demonstrate independent timer thread ffom main code");
+            Console.WriteLine("But may be this message prints first //demonstrate the independence of the timer thread from main code");
         }
 
         private static void PrintNumbers(int number)

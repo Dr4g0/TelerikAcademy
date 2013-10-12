@@ -11,7 +11,7 @@ namespace NumbersDivideBy3_7
 {
     class NumbersDivideBy3_7
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int[] array = new int[] { 4,5,84,98,78,56,42,84,89,144,551,244,168,899};
             Console.WriteLine("With lambda expressions:");
