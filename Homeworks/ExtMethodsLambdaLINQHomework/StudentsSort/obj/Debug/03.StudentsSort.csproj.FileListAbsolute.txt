@@ -1,0 +1,5 @@
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\ExtMethodsLambdaLINQHomework\StudentsSort\obj\Debug\StudentsSort.exe
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\ExtMethodsLambdaLINQHomework\StudentsSort\obj\Debug\StudentsSort.pdb
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\ExtMethodsLambdaLINQHomework\StudentsSort\obj\Debug\03.StudentsSort.csprojResolveAssemblyReference.cache
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\ExtMethodsLambdaLINQHomework\StudentsSort\bin\Debug\StudentsSort.exe
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\ExtMethodsLambdaLINQHomework\StudentsSort\bin\Debug\StudentsSort.pdb
