@@ -49,9 +49,15 @@ namespace SchoolPrjoect
 
         public void AddStudent(Student student)
         {
-            if (!this.ClassStudents.Contains(student))
+            List<int> numbers = this.ClassStudents.Select(x => x.IDNumber).ToList();
+            //validate unique IDNumber in same school class
+            if (!numbers.Contains(student.IDNumber))
             {
                 ClassStudents.Add(student);
+            }
+            else
+            {
+                throw new ArgumentException("There are students in one and the same class with equal IDNmubers");
             }
         }
 

@@ -8,9 +8,25 @@ namespace SchoolPrjoect
 {
     class Student : Person,ICommentable
     {
+        private int idNumber;
         private List<string> allComments=new List<string>();
         public Class InClass { get; set; }
-        public int IDNumber { get; set; }
+        public int IDNumber 
+        {
+            get
+            {
+                return this.idNumber;
+            }
+            
+            set
+            {
+                if (value <= 0)
+                {
+                    throw new ArgumentException("The IDNumber must be positive");
+                }
+                this.idNumber = value;
+            }
+        }
         
         public List<string> AllComments
         {
@@ -18,11 +34,11 @@ namespace SchoolPrjoect
             set { this.allComments=value; }
         }
 
-        public Student(string firstName, string lastName, Class inClass, int idNumber)
+        public Student(string firstName, string lastName, Class inClass, int number)
             : base(firstName, lastName)
         {
             this.InClass = inClass;
-            this.IDNumber = idNumber;
+            this.IDNumber = number;
         }
 
         public void AddComment(string comment)

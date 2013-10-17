@@ -8,9 +8,25 @@ namespace SchoolPrjoect
 {
     class School
     {
+        private List<Class> allClasses = new List<Class>();
         public string SchoolName { get; set; }
         public SchoolType Type { get; set; }
-        public List<Class> AllClasses { get; set; }
+        public List<Class> AllClasses {
+            get
+            {
+                return this.allClasses;
+            }
+
+            set
+            {
+                this.allClasses = value;
+                //validate unique class
+                if (this.AllClasses.GroupBy(i=>i.ClassName).Where(g=>g.Skip(1).Any()).SelectMany(i=>i).ToList().Count>0)
+                {
+                    throw new ArgumentException("There are two classes with same names");
+                }
+            }
+        }
         public List<Course> AllCourses { get; set; }
 
         public School(string name, SchoolType type, List<Class> allClasses, List<Course> allCourses)
