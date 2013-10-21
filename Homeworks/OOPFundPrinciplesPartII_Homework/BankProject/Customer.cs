@@ -47,7 +47,10 @@ namespace BankProject
             foreach (Account account in acc)
             {
                 result.AppendFormat("\r\n{0}{1,14:F2}", account.IBAN, account.Balance);
-                result.AppendFormat("\r\nInterest for {0} months: {1:F2}", account.InterestMonths, account.CalculateInterest(account.InterestMonths));
+                if (account.InterestMonths>0)
+                {
+                    result.AppendFormat("\r\nInterest for {0} months: {1:F2}", account.InterestMonths, account.CalculateInterest(account.InterestMonths));
+                }
             }
             return result.ToString();
         }
@@ -55,7 +58,7 @@ namespace BankProject
         protected string AddAcounts(Account[] acc)
         {
             StringBuilder final = new StringBuilder();
-            final.AppendFormat("\r\nDeposit accounts:");
+            final.AppendFormat("\r\n\r\nDeposit accounts:");
             DepositAccount[] depAcc = this.ClientAccounts.OfType<DepositAccount>().ToArray();
             if (depAcc.Count() > 0)
             {
@@ -65,7 +68,7 @@ namespace BankProject
             {
                 final.Append("None");
             }
-            final.AppendFormat("\r\nLoan accounts:");
+            final.AppendFormat("\r\n\r\nLoan accounts:");
             LoanAccount[] loanAcc = this.ClientAccounts.OfType<LoanAccount>().ToArray();
             if (loanAcc.Count() > 0)
             {
@@ -75,7 +78,7 @@ namespace BankProject
             {
                 final.Append("None");
             }
-            final.AppendFormat("\r\nMortage accounts:");
+            final.AppendFormat("\r\n\r\nMortage accounts:");
             MortageAccount[] mortAcc = this.ClientAccounts.OfType<MortageAccount>().ToArray();
             if (mortAcc.Count() > 0)
             {

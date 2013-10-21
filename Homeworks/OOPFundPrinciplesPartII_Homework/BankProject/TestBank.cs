@@ -90,7 +90,7 @@ namespace BankProject
             }
 
             Console.WriteLine(myBank);
-            firstCustomers[0].ClientAccounts[0].CalculateInterest(6);
+            //firstCustomers[0].ClientAccounts[0].CalculateInterest(6);
             firstCustomers[0].ClientAccounts[1].CalculateInterest(15);
             firstCustomers[0].ClientAccounts[2].CalculateInterest(20);
             Console.WriteLine(firstCustomers[0]);
