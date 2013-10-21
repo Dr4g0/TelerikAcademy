@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BankProject
 {
-    class LoanAccount : Account,IDeposit
+    public class LoanAccount : Account,IDeposit
     {
         public LoanMortageTerm Term { get; set; }
 
@@ -14,20 +14,21 @@ namespace BankProject
             :base(iban,owner,interestRate)
         {
             this.Term = term;
-            this.Balance = initialLoanAmount;
+            this.Balance = -initialLoanAmount;
         }
 
         public void DepositFunds(decimal amount)
         {
-            this.Balance -= amount;
-            if (this.Balance<=0)
+            this.Balance += amount;
+            if (this.Balance>=0)
             {
-                Console.WriteLine("Congratulations! The loan is paid.");
+                PrintMessage();
             }
         }
 
         public override decimal CalculateInterest(int months)
         {
+            this.InterestMonths = months;
             if (this.AccountOwner.GetType().Name=="IndividualClient")
             {
                 months -= 3;

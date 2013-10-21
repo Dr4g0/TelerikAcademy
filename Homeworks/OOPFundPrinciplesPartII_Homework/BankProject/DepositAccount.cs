@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BankProject
 {
-    class DepositAccount : Account, IDeposit, IDraw
+    public class DepositAccount : Account, IDeposit, IDraw
     {
         public DepositMaturity DepositType { get; set; }
 
@@ -32,6 +32,7 @@ namespace BankProject
 
         public override decimal CalculateInterest(int months)
         {
+            this.InterestMonths = months;
             if (this.Balance>=1000)
             {
                 return base.CalculateInterest(months);

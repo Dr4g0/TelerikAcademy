@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BankProject
 {
-   enum Gender
+   public enum Gender
     {
        Male,
        Female

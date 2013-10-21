@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BankProject
 {
-    enum DepositMaturity
+    public enum DepositMaturity
     {
         OneMonth,
         ThreeMonts,

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BankProject
 {
-    class MortageAccount : Account, IDeposit
+    public class MortageAccount : Account, IDeposit
     {
         public LoanMortageTerm Term { get; set; }
 
@@ -14,22 +14,22 @@ namespace BankProject
             :base(iban,owner,interestRate)
         {
             this.Term = term;
-            this.Balance = initialMortageAmount;
+            this.Balance = -initialMortageAmount;
         }
 
         public void DepositFunds(decimal amount)
         {
-            this.Balance -= amount;
-            if (this.Balance<=0)
+            this.Balance += amount;
+            if (this.Balance>=0)
             {
-                Console.WriteLine("Congratulations! Your mortage is paid.");
-                Console.WriteLine("We can release collateral.");
+                PrintMessage();
             }
         }
 
         public override decimal CalculateInterest(int months)
         {
-            if (this.AccountOwner.GetType().Name == "IndividualClient")
+            this.InterestMonths = months;
+            if ((this.AccountOwner as IndividualClient)!=null)
             {
                 months -= 6;
                 if (months > 0)
@@ -42,15 +42,15 @@ namespace BankProject
                 }
             }
                 // to be code more readable using else if
-            else if (this.AccountOwner.GetType().Name == "CorporateClient")
+            else if (this.AccountOwner as CorporateClient!=null)
             {
                 if (months > 12)
                 {
-                    return this.Balance * this.InterestRate / 2 * 12 + this.Balance * this.InterestRate * (months - 12);
+                    return Math.Abs(this.Balance * this.InterestRate / 100 / 2 * 12 + this.Balance * this.InterestRate/100 * (months - 12));
                 }
                 else if (months>0)
                 {
-                    return this.Balance * this.InterestRate / 2 * months;
+                    return Math.Abs(this.Balance * this.InterestRate / 2 * months);
                 }
                 else
                 {

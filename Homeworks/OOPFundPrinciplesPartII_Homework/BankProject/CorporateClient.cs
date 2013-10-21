@@ -21,5 +21,18 @@ namespace BankProject
             this.Segment = segment;
             this.Type = type;
         }
+
+        public override string ToString()
+        {
+            StringBuilder clientInfo = new StringBuilder();
+            clientInfo.AppendFormat("\r\nInformation about client number {0}", this.ClientNumber.ToString().PadLeft(6, '0'));
+            clientInfo.AppendFormat("\r\nType of the client: {0}", this.GetType().Name);
+            clientInfo.AppendFormat("\r\nName: {0} {1}", this.CompanyName,this.Type);
+            clientInfo.AppendFormat("\r\nBULSTAT: {0}", this.BULSTAT);
+            clientInfo.AppendFormat("\r\nAddress: {0}", this.Address);
+            clientInfo.AppendFormat("\r\nEconomic segment: {0}", this.Segment);
+            clientInfo.Append(AddAcounts(this.ClientAccounts.ToArray()));
+            return clientInfo.ToString();
+        }
     }
 }
