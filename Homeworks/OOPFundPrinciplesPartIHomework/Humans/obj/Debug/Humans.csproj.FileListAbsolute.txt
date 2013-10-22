@@ -1,0 +1,5 @@
+C:\Users\Dragu Chaya\Documents\Visual Studio 2012\Projects\OOPFundPrinciplesPartIHomework\Humans\bin\Debug\Humans.exe
+C:\Users\Dragu Chaya\Documents\Visual Studio 2012\Projects\OOPFundPrinciplesPartIHomework\Humans\bin\Debug\Humans.pdb
+C:\Users\Dragu Chaya\Documents\Visual Studio 2012\Projects\OOPFundPrinciplesPartIHomework\Humans\obj\Debug\Humans.csprojResolveAssemblyReference.cache
+C:\Users\Dragu Chaya\Documents\Visual Studio 2012\Projects\OOPFundPrinciplesPartIHomework\Humans\obj\Debug\Humans.exe
+C:\Users\Dragu Chaya\Documents\Visual Studio 2012\Projects\OOPFundPrinciplesPartIHomework\Humans\obj\Debug\Humans.pdb
