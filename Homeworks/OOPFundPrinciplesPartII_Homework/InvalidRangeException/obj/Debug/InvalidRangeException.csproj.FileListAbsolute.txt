@@ -1,0 +1,5 @@
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\OOPFundPrinciplesPartII_Homework\InvalidRangeException\bin\Debug\InvalidRangeException.exe
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\OOPFundPrinciplesPartII_Homework\InvalidRangeException\bin\Debug\InvalidRangeException.pdb
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\OOPFundPrinciplesPartII_Homework\InvalidRangeException\obj\Debug\InvalidRangeException.csprojResolveAssemblyReference.cache
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\OOPFundPrinciplesPartII_Homework\InvalidRangeException\obj\Debug\InvalidRangeException.exe
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\OOPFundPrinciplesPartII_Homework\InvalidRangeException\obj\Debug\InvalidRangeException.pdb
