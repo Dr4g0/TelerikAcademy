@@ -1,0 +1,5 @@
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\CommonTypeSystem_Homework\01-03.Student\bin\Debug\01-03.Student.exe
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\CommonTypeSystem_Homework\01-03.Student\bin\Debug\01-03.Student.pdb
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\CommonTypeSystem_Homework\01-03.Student\obj\Debug\01-03.Student.csprojResolveAssemblyReference.cache
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\CommonTypeSystem_Homework\01-03.Student\obj\Debug\01-03.Student.exe
+C:\Users\Dragu Chaya\Documents\visual studio 2012\Projects\CommonTypeSystem_Homework\01-03.Student\obj\Debug\01-03.Student.pdb
